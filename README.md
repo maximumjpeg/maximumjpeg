@@ -8,7 +8,7 @@
 - 💬 Ask me about ... Excalidraw.
 - 📫 How to reach me: ... email.
 - 😄 Pronouns: ... He/Him/His
-- ⚡ Fun fact: ... I am a triple Gemini ♊️♊️♊️
+- ⚡ Fun fact: ... I am a 3x Gemini ♊️♊️♊️
 
 <!--
 **maximumjpeg/maximumjpeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
