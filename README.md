@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://d33wubrfki0l68.cloudfront.net/d4edc1aa92f05bb5ba629bbb86658039f6abb344/6d8a6/img/typical_emacs_user.gif">
+<img align="top" alt="Coding" width="400" src="https://d33wubrfki0l68.cloudfront.net/d4edc1aa92f05bb5ba629bbb86658039f6abb344/6d8a6/img/typical_emacs_user.gif">
 
 
 - 🔭 I’m currently working on ... Becoming a Full Stack Software Engineer
