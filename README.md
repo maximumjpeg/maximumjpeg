@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ... Becoming a Full Stack Software Engineer
-- 🌱 I’m currently learning ... Express
+- 🌱 I’m currently learning ... MongoDB/Mongoose
 - 👯 I’m looking to collaborate on ... Front End, System Design and Game Development
 - 🤔 I’m looking for help with ... Solidifying my Full Stack development skillsets
 - 💬 Ask me about ... Excalidraw
