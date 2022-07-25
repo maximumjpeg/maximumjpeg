@@ -4,11 +4,11 @@
 - 🔭 I’m currently working on ... Software Engineering Immersive @ Hack Reactor
 - 🌱 I’m currently learning ... Full Stack Software Engineering
 - 👯 I’m looking to collaborate on ... Front End, System Design and Game Development
-- 🤔 I’m looking for help with ... Solidifying my Full Stack development skillsets
+- 🤔 I’m looking for help with ... Building a working knowledge of ThreeJS and R3F
 - 💬 Ask me about ... Excalidraw
 - 📫 How to reach me: ... Email
 - 😄 Pronouns: ... He/Him/His
-- ⚡ Fun fact: ... I am Team Tardigrade for life! 
+- ⚡ Fun fact: ... As a youth, I once ate over 50 Pizza Rolls back to back 
 
 
 
