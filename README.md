@@ -12,7 +12,6 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maximumjpeg)](https://git.io/streak-stats)
 
 <!--
 **maximumjpeg/maximumjpeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
