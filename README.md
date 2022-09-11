@@ -8,7 +8,9 @@
 - 💬 Ask me about ... Excalidraw
 - 📫 How to reach me: ... Email
 - 😄 Pronouns: ... He/Him/His
-- ⚡ Fun fact: ... As a youth, I once ate over 50 Pizza Rolls back to back 
+- 🧩 Please have a look at my <a src="https://docs.google.com/document/d/130GmIfoSlNrXLfDUqZg4flTKDosYzRDJDVbWPKhUrpU/edit?usp=sharing">Résumé</a> for more details about me.
+
+ 
 
 
 
