@@ -1,7 +1,6 @@
 <div id="header" align="center">
-  <img align="top" alt="Coding" width="400" src="">
+  <img align="top" alt="Coding" width="400" src="https://i.ibb.co/gjzsTCK/Brown-Wood-Minimalist-Profile-Linked-In-Banner-1.png">
 </div>
-![Image](https://i.ibb.co/gjzsTCK/Brown-Wood-Minimalist-Profile-Linked-In-Banner-1.png)
 
 ![](https://komarev.com/ghpvc/?username=maximumjpeg&color=red)
 
