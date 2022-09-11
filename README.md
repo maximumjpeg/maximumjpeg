@@ -12,7 +12,7 @@
 <a href="https://nodejs.org/en/about/"> NodeJS <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs-logo" width="60" height="40"/></a>  
 
 <a href="https://expressjs.com/" target="_blank"> Express <img src="https://iconape.com/wp-content/files/ep/370863/svg/370863.svg" alt="express-logo" width="60" height="40"/> </a>
-<a href="https://axios-http.com/" target="_blank"> Axios <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Axios_%28computer_library%29_logo.svg" alt="axios-logo" width="40" height="30"/> </a>
+<a href="https://axios-http.com/" target="_blank"> Axios <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Axios_%28computer_library%29_logo.svg" alt="axios-logo" width="60" height="30"/> </a>
 <a href="" target="_blank"> Technology <img src="" alt="" width="40" height="40"/> </a>
 <a href="" target="_blank"> Technology <img src="" alt="" width="40" height="40"/> </a>
 <a href="" target="_blank"> Technology <img src="" alt="" width="40" height="40"/> </a>
