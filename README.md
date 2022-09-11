@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img align="top" alt="Coding" width="400" src="https://ibb.co/mD6Qq7W.gif">
+  <img align="top" alt="Coding" width="400" src="">
 </div>
+![Image](https://ibb.co/mD6Qq7W)
 
 ![](https://komarev.com/ghpvc/?username=maximumjpeg&color=red)
 
