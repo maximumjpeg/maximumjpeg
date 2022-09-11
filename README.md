@@ -11,7 +11,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> HTML <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html5-logo" width="40" height="40"/></a>
 <a href="https://nodejs.org/en/about/"> NodeJS <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs-logo" width="40" height="40"/></a>  
 
-<a href="https://expressjs.com/" target="_blank"> Express <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express-logo" width="40" height="40"/> </a>
+<a href="https://expressjs.com/" target="_blank"> Express <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express-logo" width="80" height="40"/> </a>
 <a href="" target="_blank"> Technology <img src="" alt="" width="40" height="40"/> </a>
 <a href="" target="_blank"> Technology <img src="" alt="" width="40" height="40"/> </a>
 </p>
