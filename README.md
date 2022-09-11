@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img align="top" alt="Coding" width="400" src="">
 </div>
-![Image](https://ibb.co/mD6Qq7W)
+![Image](https://i.ibb.co/gjzsTCK/Brown-Wood-Minimalist-Profile-Linked-In-Banner-1.png)
 
 ![](https://komarev.com/ghpvc/?username=maximumjpeg&color=red)
 
