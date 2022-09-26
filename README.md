@@ -27,9 +27,9 @@
 # About Me 🪞
 
 - 🔭 I’m currently working on ... Personal Software Engineering Projects.
-- 💬 Ask me about ... ThreeJS.
+- 💬 Ask me about ... ThreeJS 🟨.
 - 😄 Pronouns: ... He/Him/His.
-- 💡  I love to ... fix bugs, design it and build it with code, longboard and snowboard.
+- 💡  I love to ... fix bugs🪳, design it and build it with code💻, longboard🛹 and snowboard🏂.
 - 💬  Feel free to reach out to me for work opportunities or working alogside a project.
 - 🧩 Please have a look at my [Résumé](https://docs.google.com/document/d/130GmIfoSlNrXLfDUqZg4flTKDosYzRDJDVbWPKhUrpU/editusp=sharing) for more details about me.
 
