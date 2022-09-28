@@ -24,12 +24,13 @@
 <a href="https://www.mysql.com/" target="_blank"> MySQL <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mySQL-logo" width="40" height="40"/> </a>
 <a href="https://www.nginx.com/" target="_blank"> NGINX <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="NGINX-logo" width="40" height="40"/> </a>
 <a href="https://mongoosejs.com/docs/queries.html" target="_blank"> Mongoose <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" alt="mongoose-logo" width="40" height="40"/> </a>
+</p>
 <!--
 <a href="" target="_blank"> Technology <img src="" alt="" width="40" height="40"/> </a>
 <a href="" target="_blank"> Technology <img src="" alt="" width="40" height="40"/> </a>
 <a href="" target="_blank"> Technology <img src="" alt="" width="40" height="40"/> </a>
 <a href="" target="_blank"> Technology <img src="" alt="" width="40" height="40"/> </a>
-</p>
+
 -->
 
 # About Me 🪞
