@@ -18,7 +18,6 @@
 <a href="https://yarnpkg.com/" target="_blank"> Yarn <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn-logo" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> VSCode <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vs-code-logo" width="40" height="40"/> </a><br/>
 <a href="https://www.postgresql.org/" target="_blank"> PostgreSQL <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgreSQL-logo" width="40" height="40"/> </a>
-
 <a href="https://www.sqlite.org/index.html" target="_blank"> SQLite <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite-logo" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> MySQL <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mySQL-logo" width="40" height="40"/> </a>
 <a href="https://www.nginx.com/" target="_blank"> NGINX <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="NGINX-logo" width="40" height="40"/> </a>
