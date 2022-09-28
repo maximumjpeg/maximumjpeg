@@ -16,7 +16,7 @@
 <a href="https://www.mongodb.com/" target="_blank"> MongoDB <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb-logo" width="40" height="40"/> </a>
 <a href="https://www.npmjs.com/" target="_blank"> NPM <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm-logo" width="40" height="40"/> </a>
 <a href="https://yarnpkg.com/" target="_blank"> Yarn <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn-logo" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> VSCode <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vs-code-logo" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> VSCode <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vs-code-logo" width="40" height="40"/> </a><br/>
 <a href="https://www.postgresql.org/" target="_blank"> PostgreSQL <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgreSQL-logo" width="40" height="40"/> </a>
 
 <a href="https://www.sqlite.org/index.html" target="_blank"> SQLite <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite-logo" width="40" height="40"/> </a>
