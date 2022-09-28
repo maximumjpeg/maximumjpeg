@@ -15,7 +15,7 @@
 <a href="https://axios-http.com/" target="_blank"> Axios <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Axios_%28computer_library%29_logo.svg" alt="axios-logo" width="60" height="30"/> </a>
 <!--
 <a href="https://aws.amazon.com/" target="_blank"> Technology <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws-logo" width="40" height="40"/> </a>
-<a href="" target="_blank"> Technology <img src="" alt="" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> Technology <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="" width="40" height="40"/> </a>
 <a href="" target="_blank"> Technology <img src="" alt="" width="40" height="40"/> </a>
 <a href="" target="_blank"> Technology <img src="" alt="" width="40" height="40"/> </a>
 <a href="" target="_blank"> Technology <img src="" alt="" width="40" height="40"/> </a>
