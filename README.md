@@ -33,7 +33,7 @@
 
 # About Me 🪞
 
-- 🔭 I’m currently working on ... Personal Software Engineering Projects.
+- 🔭 I’m currently working on ... personal Software Engineering projects.
 - 💬 Ask me about ... ThreeJS 🟨.
 - 💡  I love to ... fix bugs🪳, design it and build it with code💻, build community 🧱, longboard🛹 and snowboard🏂.
 - 💬  Feel free to reach out to me for work opportunities!
