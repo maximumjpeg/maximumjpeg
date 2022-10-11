@@ -14,14 +14,14 @@
 <a href="https://expressjs.com/" target="_blank"> Express <img src="https://iconape.com/wp-content/files/ep/370863/svg/370863.svg" alt="express-logo" width="60" height="40"/> </a><br/>
 <a href="https://axios-http.com/" target="_blank"> Axios <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Axios_%28computer_library%29_logo.svg" alt="axios-logo" width="60" height="30"/> </a>
 <a href="https://aws.amazon.com/" target="_blank"> AWS <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws-logo" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> MongoDB <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb-logo" width="40" height="40"/> </a>
+<a href="https://www.nginx.com/" target="_blank"> NGINX <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="NGINX-logo" width="40" height="40"/> </a>  
 <a href="https://www.npmjs.com/" target="_blank"> NPM <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm-logo" width="40" height="40"/> </a>
 <a href="https://yarnpkg.com/" target="_blank"> Yarn <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn-logo" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> VSCode <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vs-code-logo" width="40" height="40"/> </a><br/>
 <a href="https://www.postgresql.org/" target="_blank"> PostgreSQL <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgreSQL-logo" width="40" height="40"/> </a>
 <a href="https://www.sqlite.org/index.html" target="_blank"> SQLite <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite-logo" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> MySQL <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mySQL-logo" width="40" height="40"/> </a>
-<a href="https://www.nginx.com/" target="_blank"> NGINX <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="NGINX-logo" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> MongoDB <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb-logo" width="40" height="40"/> </a>
 <a href="https://mongoosejs.com/docs/queries.html" target="_blank"> Mongoose <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" alt="mongoose-logo" width="40" height="40"/> </a>
 
 <!--
