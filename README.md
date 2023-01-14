@@ -38,7 +38,7 @@
 - 💬 Ask me about ... ThreeJS 🟨.
 - 💡  I love to ... fix bugs🪳, design it and build it with code💻, build community 🧱, longboard🛹 and snowboard🏂.
 - 💬  Feel free to reach out to me for work opportunities!
-- 🧩 Please have a look at my [Résumé](https://docs.google.com/document/d/130GmIfoSlNrXLfDUqZg4flTKDosYzRDJDVbWPKhUrpU/editusp=sharing) for more details about me.
+- 🧩 Please have a look at my [Résumé](https://docs.google.com/document/d/130GmIfoSlNrXLfDUqZg4flTKDosYzRDJDVbWPKhUrpU/edit?usp=sharing) for more details about me.
 
  
 
