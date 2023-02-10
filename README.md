@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img align="top" alt="Banner" src="[https://i.ibb.co/7KJ1kRp/Brown-Wood-Minimalist-Profile-Linked-In-Banner-1.png](https://i.ibb.co/7KJ1kRp/Brown-Wood-Minimalist-Profile-Linked-In-Banner-1.png)">
+  <img align="top" alt="Banner" src="https://i.ibb.co/7KJ1kRp/Brown-Wood-Minimalist-Profile-Linked-In-Banner-1.png">
 </div>
 
 ![](https://komarev.com/ghpvc/?username=maximumjpeg&color=red)
