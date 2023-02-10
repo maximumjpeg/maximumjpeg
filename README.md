@@ -1,4 +1,4 @@
-[![Brown-Wood-Minimalist-Profile-Linked-In-Banner-1.png](https://i.postimg.cc/8PXmZ69P/Brown-Wood-Minimalist-Profile-Linked-In-Banner-1.png)](https://postimg.cc/JGJXnGR9)
+<a href="https://ibb.co/qpMrJWg"><img src="https://i.ibb.co/7KJ1kRp/Brown-Wood-Minimalist-Profile-Linked-In-Banner-1.png" alt="Brown-Wood-Minimalist-Profile-Linked-In-Banner-1" border="0"></a>
 
 ![](https://komarev.com/ghpvc/?username=maximumjpeg&color=red)
 
