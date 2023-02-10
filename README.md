@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img align="top" alt="Banner" src="https://i.postimg.cc/8PXmZ69P/Brown-Wood-Minimalist-Profile-Linked-In-Banner-1.png">
+
+[![Brown-Wood-Minimalist-Profile-Linked-In-Banner-1.png](https://i.postimg.cc/8PXmZ69P/Brown-Wood-Minimalist-Profile-Linked-In-Banner-1.png)](https://postimg.cc/JGJXnGR9)
 </div>
 
 
