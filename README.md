@@ -1,9 +1,7 @@
 <div id="header" align="center">
-  <img align="top" alt="Banner" src="https://i.ibb.co/qpMrJWg/Brown-Wood-Minimalist-Profile-Linked-In-Banner-1.png">
+  <img align="top" alt="Banner" src="https://i.ibb.co/7KJ1kRp/Brown-Wood-Minimalist-Profile-Linked-In-Banner-1.png">
 </div>
 
-<a>qpMrJWg</a>
-<a>7KJ1kRp</a>
 
 ![](https://komarev.com/ghpvc/?username=maximumjpeg&color=red)
 
