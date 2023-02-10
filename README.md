@@ -1,4 +1,5 @@
 # Jordan Addleman [Software Engineer]
+I am a Full Stack Software Engineer with strong Agile teams and project experience. 
 
 ![](https://komarev.com/ghpvc/?username=maximumjpeg&color=red)
 
