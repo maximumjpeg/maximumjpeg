@@ -1,4 +1,5 @@
 # Jordan Addleman [Software Engineer]
+Welcome to my Github Portfolio!
 I am a Full Stack Software Engineer with strong Agile teams and project experience.
 
 - 🔭 I’m currently working on ... personal Software Engineering projects.
