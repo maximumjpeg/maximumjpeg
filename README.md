@@ -2,7 +2,7 @@
 Welcome to my Github Portfolio!
 I am a Full Stack Software Engineer with strong Agile teams and project experience.
 
-- 🔭 I’m currently working on ... AWS Cloud certifications
+- 🔭 I’m currently working on ... AWS Cloud training
 - 💬 Ask me about ... ThreeJS 🟨
 - 💡  I love to ... fix bugs🪳, design and build interesting Applications 💻, build community 🧱, longboard🛹 and snowboard🏂
 - 💬  Feel free to reach out to me for work opportunities!
@@ -31,7 +31,6 @@ I am a Full Stack Software Engineer with strong Agile teams and project experien
 <a href="https://mongoosejs.com/docs/queries.html" target="_blank"> Mongoose <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" alt="mongoose-logo" width="40" height="40"/> </a>
 
 <!--
-<a href="" target="_blank"> Technology <img src="" alt="" width="40" height="40"/> </a>
 <a href="" target="_blank"> Technology <img src="" alt="" width="40" height="40"/> </a>
 <a href="" target="_blank"> Technology <img src="" alt="" width="40" height="40"/> </a>
 <a href="" target="_blank"> Technology <img src="" alt="" width="40" height="40"/> </a>
