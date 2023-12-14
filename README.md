@@ -2,7 +2,7 @@
 Welcome to my Github Portfolio!
 I am a Full Stack Software Engineer with strong Agile teams and project experience.
 
-- 🔭 I’m currently working on ... AWS Cloud training
+- 🔭 I’m currently working on ... DevOps skills
 - 💬 Ask me about ... ThreeJS 🟨
 - 💡  I love to ... fix bugs🪳, design and build interesting Applications 💻, build community 🧱, longboard🛹 and snowboard🏂
 - 💬  Feel free to reach out to me for work opportunities!
