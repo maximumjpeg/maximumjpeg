@@ -4,7 +4,7 @@ I am a Full Stack Software Engineer with strong Agile teams and project experien
 
 - 🔭 I’m currently working on ... DevOps skills
 - 💬 Ask me about ... ThreeJS 🟨
-- 💡  I love to ... fix bugs🪳, design and build interesting Applications 💻, build community 🧱, longboard🛹 and snowboard🏂
+- 💡  I love to ... fix bugs🪳, design and build interesting Applications 💻, leave 40 tabs open in Chrome🌐, longboard🛹 and snowboard🏂
 - 💬  Feel free to reach out to me for work opportunities!
 - 🧩 Please have a look at my [Résumé](https://docs.google.com/document/d/130GmIfoSlNrXLfDUqZg4flTKDosYzRDJDVbWPKhUrpU/edit?usp=sharing) for more details about me
 
