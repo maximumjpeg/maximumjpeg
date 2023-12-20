@@ -2,11 +2,11 @@
 Welcome to my Github Portfolio!
 I am a Full Stack Software Engineer with strong Agile teams and project experience.
 
-- 🔭 I’m currently working on ... Learning YAML
+- 🔭 I’m currently working on ... Learning YAML & personal projects
 - 💬 Ask me about ... ThreeJS 🟨
-- 💡  I love to ... fix bugs🪳, design and build interesting Applications 💻, leave 65 tabs open in Chrome🌐, longboard🛹 and snowboard🏂
-- 💬  Feel free to reach out to me for work opportunities!
-- 🧩 Please have a look at my [Résumé](https://docs.google.com/document/d/130GmIfoSlNrXLfDUqZg4flTKDosYzRDJDVbWPKhUrpU/edit?usp=sharing) for more details about me
+- 💡  I love to ... move tickets to the right =>🪳🧩, design and build interesting Web Applications 💻, leave 65 tabs open in Chrome🌐, longboard🛹 and snowboard🏂
+- 💬  Feel free to reach out to me for work opportunities or talk about JRPGs!
+- 🫱 Please have a look at my [Résumé](https://docs.google.com/document/d/130GmIfoSlNrXLfDUqZg4flTKDosYzRDJDVbWPKhUrpU/edit?usp=sharing) for more details about me
 
 ![](https://komarev.com/ghpvc/?username=maximumjpeg&color=red)
 
