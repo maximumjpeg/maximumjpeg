@@ -2,7 +2,7 @@
 Welcome to my Github Portfolio!
 I am a Full Stack Software Engineer with strong Agile teams and project experience.
 
-- 🔭 I’m currently working on ... Learning YAML & personal projects
+- 🔭 I’m currently working on ... learning YAML & personal projects
 - 💬 Ask me about ... ThreeJS 🟨
 - 💡  I love to ... move tickets to the right =>🪳🧩, design and build interesting Web Applications 💻, leave 65 tabs open in Chrome🌐, longboard🛹 and snowboard🏂
 - 💬  Feel free to reach out to me for work opportunities or talk about JRPGs!
