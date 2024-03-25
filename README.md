@@ -8,7 +8,6 @@ I am a Full Stack Software Engineer with strong Agile teams and project experien
 - 💬  Feel free to reach out to me for work opportunities or talk about JRPGs!
 - 🫱 Please have a look at my [Résumé](https://docs.google.com/document/d/130GmIfoSlNrXLfDUqZg4flTKDosYzRDJDVbWPKhUrpU/edit?usp=sharing) for more details about me
 
-![](https://komarev.com/ghpvc/?username=maximumjpeg&color=red)
 
 # Languages and Tools
 <p align="left">
