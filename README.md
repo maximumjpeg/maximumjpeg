@@ -2,8 +2,8 @@
 Welcome to my Github Portfolio!
 I am a Full Stack Software Engineer with strong Agile teams and project experience.
 
-- 🔭 I’m currently working on ... learning YAML & personal projects
-- 💬 Ask me about ... ThreeJS 🟨
+- 🔭 I’m currently working on ... An application to help me study Japanese and other personal projects
+- 💬 Ask me about ... running quantized LLMs on macOS
 - 💡  I love to ... move tickets to the right =>🪳🧩, design and build interesting Web Applications 💻, leave 65 tabs open in Chrome🌐, longboard🛹 and snowboard🏂
 - 💬  Feel free to reach out to me for work opportunities or talk about JRPGs!
 - 🫱 Please have a look at my [Résumé](https://docs.google.com/document/d/130GmIfoSlNrXLfDUqZg4flTKDosYzRDJDVbWPKhUrpU/edit?usp=sharing) for more details about me
